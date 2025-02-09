@@ -1,0 +1,11 @@
+.DS_Store
+.ipynb_checkpoints
+.venv
+.env
+env
+venv
+get_started.sh
+~$*
+.aider*
+.vs_code
+census_api_key.txt
