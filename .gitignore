@@ -5,7 +5,10 @@
 env
 venv
 get_started.sh
+*.swp
 ~$*
 .aider*
 .vs_code
 census_api_key.txt
+completed_notebooks/*.py
+notebooks/*.py
