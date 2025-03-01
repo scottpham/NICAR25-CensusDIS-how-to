@@ -42,3 +42,18 @@ This notebook shows how to:
    - Calculate derived statistics (e.g., percentage of public transport usage)
    - Filter for specific geographic areas (demonstrated with Hennepin and Ramsey counties)
 
+### 3. Dating Pool
+This notebook demonstrates how to:
+1. [Description of Dating Pool notebook]
+
+### 4. Alternative Tables
+This notebook explores how to:
+1. Work with non-ACS Census datasets, specifically the Current Population Survey (CPS)
+2. Search for and identify relevant variables in the CPS dataset
+   - Find labor force participation variables
+   - Understand variable categories and weights
+3. Download and analyze labor force data by state
+   - Calculate the percentage of eligible adults in the civilian labor force
+4. Create choropleth maps to visualize labor force participation across the United States
+   - Use censusdis mapping capabilities with state-level data
+
