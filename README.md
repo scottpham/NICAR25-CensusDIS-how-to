@@ -13,10 +13,10 @@ pip install -r requirements.txt
 ```
 
 ## API KEY
-You'll need an API key from the U.S. Census Bureau to use this package. You can get one [here](https://api.census.gov/data/key_signup.html).
+You'll need an API key from the U.S. Census Bureau to use this package. You can get one [here](https://api.census.gov/data/key_signup.html). The scripts in this repo are set up to read a key from a textfile called `census_api_key.txt` in the root directory (not included in this repo). During class I'll distribute a key to you, or if you have one yourself, just create the file and paste the key in there without any other text or punctuation.
 
 
-censusdis = "https://github.com/vengroff/censusdis"
+Please give the [CensusDis Repo](https://github.com/vengroff/censusdis) a star on Github if you find this package useful! It helps others find the tool and encourages the developers to keep it updated.
 
 ## Notebooks
 
