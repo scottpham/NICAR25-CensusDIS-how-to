@@ -70,3 +70,6 @@ This notebook explores how to:
 4. Create choropleth maps to visualize poverty rates across the United States
    - Use censusdis mapping capabilities with state-level data
 
+
+Please feel free to reach out! I'm scott.pham[at]cbsnews.com, and scottgpham[at]gmail.com.
+
